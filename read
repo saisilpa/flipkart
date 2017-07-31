@@ -1,7 +1,7 @@
 public class read
 {
 
-public static void main
+public static void main(Strings arg[])
 
 {
 }
